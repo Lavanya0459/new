@@ -3,3 +3,11 @@ ndm x
 jjjjjjjjjjj 
 this is lavanya line
 how to coomit
+jjjjjjjjjjj
+<<<<<<< HEAD
+this is hema line 
+
+=======
+this is hema line
+this is new 
+>>>>>>> 7fbaa83 (this is modiied)
